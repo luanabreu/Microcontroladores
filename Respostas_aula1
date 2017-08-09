@@ -13,9 +13,12 @@ Para controlar as partes elétricas de um automóvel, como vidro, travas e até 
 	(b) Para eletrodomésticos;
 Televisões smart, geladeiras e máquinas de lavar são exemplos de eletrodomésticos que utilizam sistemas embarcados.
 	(c) Para automação industrial.
-  
+Controle do funcionamento de máquinas e motores.
 
 4. Cite arquiteturas possíveis e as diferenças entre elas.
+Existem arquiteturas como CISC e RISC.Sendp a primeira uma arquitetura de processadores capaz de executar centenas de instruções complexas 
+diferentes. Já a segunda arquitetura de processadores que favorece um conjunto simples e pequeno de instruções que levam aproximadamente
+a mesma quantidade de tempo para serem executadas.
 
 5. Por que usamos o MSP430 na disciplina, ao invés de outro microcontrolador?
 Por utilizar uma linguagem simples, ser mais acessivel e atender as necessidades da disciplina.
