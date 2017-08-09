@@ -1,24 +1,24 @@
-Data: 08/03/2017
+Data: 09/08/2017
 
-1. O que s„o sistemas embarcados?
-S„o sistemas computacionais menos complexos que um computador de propÛsito geral, encarregados de executar
-apenas uma funÁ„o determinada com requisitos especÌficos que geralmente executam geralmente repetidas vezes.
+1. O que s√£o sistemas embarcados?
+S√£o sistemas computacionais menos complexos que um computador de prop√≥sito geral, encarregados de executar
+apenas uma fun√ß√£o determinada com requisitos espec√≠ficos que geralmente executam geralmente repetidas vezes.
 
-2. O que s„o sistemas microprocesssados?
-… um sistema completamente dedicado ao dispositivo ou sistema que ele controla.
+2. O que s√£o sistemas microprocesssados?
+√â um sistema completamente dedicado ao dispositivo ou sistema que ele controla.
 
-3. Apresente aplicaÁıes de sistemas embarcados:
-	(a) Para a ind˙stria automotiva;
-Para controlar as partes elÈtricas de um automÛvel, como vidro, travas e atÈ mesmo um motor com partida elÈtrica.
-	(b) Para eletrodomÈsticos;
-Televisıes smart, geladeiras e m·quinas de lavar s„o exemplos de eletrodomÈsticos que utilizam sistemas embarcados.
-	(c) Para automaÁ„o industrial.
-Controle do funcionamento de m·quinas e motores.
+3. Apresente aplica√ß√µes de sistemas embarcados:
+	(a) Para a ind√∫stria automotiva;
+Para controlar as partes el√©tricas de um autom√≥vel, como vidro, travas e at√© mesmo um motor com partida el√©trica.
+	(b) Para eletrodom√©sticos;
+Televis√µes smart, geladeiras e m√°quinas de lavar s√£o exemplos de eletrodom√©sticos que utilizam sistemas embarcados.
+	(c) Para automa√ß√£o industrial.
+Controle do funcionamento de m√°quinas e motores.
 
-4. Cite arquiteturas possÌveis e as diferenÁas entre elas.
-Existem arquiteturas como CISC e RISC.Sendp a primeira uma arquitetura de processadores capaz de executar centenas de instruÁıes complexas 
-diferentes. J· a segunda arquitetura de processadores que favorece um conjunto simples e pequeno de instruÁıes que levam aproximadamente
+4. Cite arquiteturas poss√≠veis e as diferen√ßas entre elas.
+Existem arquiteturas como CISC e RISC.Sendp a primeira uma arquitetura de processadores capaz de executar centenas de instru√ß√µes complexas 
+diferentes. J√° a segunda arquitetura de processadores que favorece um conjunto simples e pequeno de instru√ß√µes que levam aproximadamente
 a mesma quantidade de tempo para serem executadas.
 
-5. Por que usamos o MSP430 na disciplina, ao invÈs de outro microcontrolador?
+5. Por que usamos o MSP430 na disciplina, ao inv√©s de outro microcontrolador?
 Por utilizar uma linguagem simples, ser mais acessivel e atender as necessidades da disciplina.
